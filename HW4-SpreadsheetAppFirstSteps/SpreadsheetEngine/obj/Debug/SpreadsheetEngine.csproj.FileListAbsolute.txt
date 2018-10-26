@@ -1,0 +1,5 @@
+C:\Users\Kelsey\Documents\WSU\SPRING 2017\CPTS 321\HOMEWORKS\HW 4\Spreadsheet_KNash\SpreadsheetEngine\bin\Debug\SpreadsheetEngine.dll
+C:\Users\Kelsey\Documents\WSU\SPRING 2017\CPTS 321\HOMEWORKS\HW 4\Spreadsheet_KNash\SpreadsheetEngine\bin\Debug\SpreadsheetEngine.pdb
+C:\Users\Kelsey\Documents\WSU\SPRING 2017\CPTS 321\HOMEWORKS\HW 4\Spreadsheet_KNash\SpreadsheetEngine\obj\Debug\SpreadsheetEngine.csprojResolveAssemblyReference.cache
+C:\Users\Kelsey\Documents\WSU\SPRING 2017\CPTS 321\HOMEWORKS\HW 4\Spreadsheet_KNash\SpreadsheetEngine\obj\Debug\SpreadsheetEngine.dll
+C:\Users\Kelsey\Documents\WSU\SPRING 2017\CPTS 321\HOMEWORKS\HW 4\Spreadsheet_KNash\SpreadsheetEngine\obj\Debug\SpreadsheetEngine.pdb
